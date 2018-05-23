@@ -702,7 +702,7 @@ case $opcao in
   24)
    deletar_todos;;
   25)
-  abrir_openvpn;;
+  bash open.br;;
   26)
    rm -rf /bin/speedtest.py 2>/dev/null
    rm -rf /bin/deletarusuario 2>/dev/null
